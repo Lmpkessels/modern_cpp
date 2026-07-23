@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-green.svg)
-![C Language](https://img.shields.io/badge/-Language-00599C?style=flat&logo=c&logoColor=white&labelColor=00599C)
+![C++](https://img.shields.io/badge/00599C?style=flat&logo=c&logoColor=white&labelColor=00599C)
 
 Is a Repository focused on gaining understanding in modern C++ such that understanding
 modern code bases, and building production ready code becomes simpler.
