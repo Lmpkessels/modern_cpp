@@ -31,5 +31,6 @@ int main(void)
     // Returns 4
     std::cout << double_number(2) << '\n';
 
+    // Returns user input
     double_user_number();
 }
