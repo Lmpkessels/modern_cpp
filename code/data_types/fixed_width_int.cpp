@@ -5,8 +5,8 @@
 // Prints sizes of fixed width integers
 void fixed_width()
 {    
-    std::int8_t sie;
-    std::uint8_t uie;
+    std::int8_t sie; // Behaves like char types
+    std::uint8_t uie; // Behaves like char types
 
     std::cout << "\n8 Bit integers:\n";
 
